@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "atm_machine",
+    "slug": "atm_machine",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/emblem.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#5913f4"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/emblem.png",
+        "backgroundColor": "#5913f4"
+      }
+    },
+    "web": {
+      "favicon": "./assets/emblem.png"
+    }
+  }
+}
