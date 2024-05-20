@@ -38,9 +38,9 @@ This is a simple banking application built with React Native. The app allows use
 4. **Run the app:**
     ```bash
    npm start
-Usage
+## Usage
 After starting the app, use an emulator or connect a physical device to interact with the application. The initial screen is the login screen where you can enter your credentials to access your account.
-Components
+## Components
 `login.js`
 Handles user authentication. Users can enter their credentials to log in to the app.
 
