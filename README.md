@@ -27,17 +27,17 @@ This is a simple banking application built with React Native. The app allows use
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/banking-app.git
+   git clone https://github.com/suanaprebibaj/mobile-application.git
 
 2. **Navigate to the project directory:**
    ```bash
-   cd banking-app
+  mobile-application
 3. **Install dependencies:**
     ```bash
    npm install
 4. **Run the app:**
     ```bash
-   npm start
+   npx expo start
 ## Usage
 After starting the app, use an emulator or connect a physical device to interact with the application. The initial screen is the login screen where you can enter your credentials to access your account.
 ## Components
